@@ -1,0 +1,817 @@
+*
+{
+    padding: 0;
+    margin: 0;
+}
+.mntop{
+ /* background-color: aquamarine; */
+ width: 1250px;
+ height: 100px;
+ display: flex;
+ flex-direction: row;
+ /* position: fixed; */
+}
+.domain{
+    /* background-color: black; */
+    width: 18%;
+    height: 90%;
+    display: flex;
+    align-items: center;
+    justify-content:flex-end;
+}
+.logo{
+    width: 70%;
+    height: 60%;
+}
+.locate{
+    /* background-color: blue; */
+    width: 3%;
+    height: 90px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+
+}
+.place{
+    /* background-color: brown; */
+    display: flex;
+  /* align-items: center; */
+  flex-direction: column;
+  /* justify-content: center; */
+    width: 15%;
+height: 90%;
+}
+#coi{
+    border: none;
+    font-size:small ;
+    font-weight: 100;
+    
+    
+
+}
+.Coimbatore{
+    /* background-color: aqua; */
+    display: flex;
+    align-items: end;
+
+    width: 100%;
+    height: 60%;
+}
+.sub-a{
+    /* background-color: blueviolet; */
+}
+.sub-b{
+    /* background-color: chartreuse; */
+    width: 28%;
+    display: flex;
+    align-items: center;
+    justify-content: end;
+}
+.inpt{
+    width: 300px;
+    height: 30px;
+    /* border:black; */
+    border-radius: 5px;
+    /* background-color: black; */
+    /* color: black; */
+    border-color: darkgrey;
+    /* border-top: 10px; */
+    background-size: 0%;
+    border-width: .1ch;
+    /* border-top: .1ch; */
+}
+.search{
+    /* background-color: yellow; */
+    width: 30px;
+    height: 28px;
+    position: relative;
+    right: 36px;
+}
+.sub-d{
+    /* background-color: brown; */
+    width: 3%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    /* justify-content: right; */
+
+}
+.ctgry{
+    width: 33%;
+    height: 100px;
+    /* background-color: cadetblue; */
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    
+}
+.ctgryimg{
+    width: 80%;
+    height: 40%;
+    /* background-color: cornflowerblue */
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.rasheed{
+    width: 30%;
+    height: 60%;
+    /* background-color: chartreuse; */
+}
+.cr{
+    /* background-color: blue; */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.rasheed-a{
+    width: 20%;
+    height: 55%;
+    /* background-color: chartreuse; */
+}
+.rasheed-ab{
+    width: 15%;
+    height: 55%;
+    /* background-color: chartreuse; */
+}
+#mhd{
+    /* color: rgb(87, 86, 86); */
+    font-family: sans-serif;
+    font-size: small;
+}
+
+
+.main-c{
+    height: 280px;
+    width: 100%;
+    /* background-color: blue; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.cd{
+    width: 87%;
+    height: 240px;
+    border-radius: 1ch;
+}
+.x{
+    width: 100%;
+    height: 60px;
+    /* background-color: aqua; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.x-a{
+    width: 87%;
+    height: 80%;
+    /* background-color: blue; */
+}
+.ax{
+    /* color: rgb(45, 46, 46); */
+}
+.jk{
+    font-family: sans-serif;
+    font-variant: small-caps;
+    letter-spacing: 2ch;
+}
+.xy{
+    width: 100%;
+    height: 350px;
+    /* background-color: aqua; */
+    display: flex;
+    /* flex-direction: row; */
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.acb{
+    width: 180px;
+    height: 150px;
+    /* background-color: blue; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.yu{
+    width: 130px;
+    height: 120px;
+}
+/* .yx{
+    width: 100%;
+    height: 150px;
+    /* background-color: rgb(6, 82, 82); */
+    /* display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+} */ */
+
+
+/* .wx{
+    width: 100%;
+    height: 20px;
+    background-color: #464646;
+} */
+.px{
+    width: 100%;
+    height: 50px;
+    /* background-color: aqua; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+.xp{
+    width: 20%;
+    height: 40px;
+    /* background-color: brown; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.rx{
+    letter-spacing: .2px;
+}
+.par{
+    width: 100%;
+    height: 690px;
+    /* background-color: brown; */
+    display: flex;
+    /* justify-content: center; */
+    flex-direction: column;
+    align-items: center;
+
+}
+.jal{
+    width: 94%;
+    height: 400px;
+    /* background-color: cadetblue; */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+
+}
+.jal1{
+
+    width: 94%;
+    height: 400px;
+    /* background-color: cadetblue; */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+
+
+
+
+
+}
+.farm{
+    font-size: medium;
+}
+.asd{
+    width: 220px;
+    height: 300px;
+    /* background-color: chartreuse; */
+}
+.eggs{
+    width: 210px;
+    height: 150px;
+    border-radius: 18px;
+}
+.ora{
+    /* background-color: burlywood; */
+    width: 100%;
+    height: 55%;
+    display: flex;
+    justify-content: center;
+}
+.plus{
+    width: 40px;
+    height: 32px;
+    background-color: white;
+    position: absolute;
+    /* bottom: -405px; */
+    /* right: 0px; */
+    margin-left: 180px;
+    margin-top: 130px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    
+}
+.half{
+    /* background-color: chocolate; */
+    width: 100%;
+    height: 45%;
+}
+.frs{
+    width: 100%;
+    height: 50px;
+    /* background-color: rgb(7, 99, 102); */
+}
+.farm{
+    font-family: serif;
+}
+.pice{
+    width: 100%;
+    height: 35px;
+    /* background-color: blue; */
+}
+.price{
+    width: 100%;
+    height: 30px;
+    /* background-color: aqua; */
+    display: flex;
+    flex-direction: row;
+}
+.rs{
+    font-weight: bold;
+    font-family: serif;
+}
+.offer{
+    /* background-color: chartreuse; */
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 60%;
+    height: 60%;
+}
+.ffer{
+    font-size: small;
+    font-family: serif;
+    color: rgb(48, 47, 47);
+}
+.ffff{
+    font-size: small;
+    font-family: serif;
+    color: rgb(56, 145, 23);
+}
+.gain{
+    /* background-color: blue; */
+    width: 100%;
+    height: 20px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.exprs{
+    width: 30px;
+    height: 20px;
+}
+.min{
+    font-size: small;
+    color: rgb(41, 40, 40);
+
+}
+.lp{
+    width: 92%;
+    height: 90px;
+    /* background-color: cornflowerblue; */
+    display: flex;
+    align-items: center;
+}
+.aq{
+    /* background-color:rgb(244, 237, 237); */
+    width: 100%;
+    height: 330px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    
+
+}
+.sq{
+    /* background-color: chartreuse; */
+    width: 350px;
+    height: 210px;
+    display: flex;
+    /* align-items: center; */
+    flex-direction: column;
+}
+.dq{
+    width: 40px;
+    height: 4px;
+    background-color: maroon;
+    border-radius: 5px;
+
+}
+.fq{
+    width: 100%;
+    height: 60%;
+    /* background-color: blue; */
+}
+.aqa{
+    width: 100%;
+    height: 20px;
+    /* background-color: cadetblue; */
+    display: flex;
+    align-items: center;
+
+}
+.hq{
+    /* background-color: cornflowerblue; */
+    font-weight: 400;
+    font-size: medium;
+    font-family: serif;
+    font-style: inherit;
+    line-height: 30px;
+
+}
+.gq{
+    /* background-color: brown; */
+    line-height: 25px;
+    font-size: small;
+    font-family: serif;
+}
+.bz{
+    /* background-color: cadetblue; */
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80px;
+
+}
+.vz{
+    /* background-color: burlywood; */
+    width: 94%;
+    height: 70%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+
+
+}
+.xz{
+    width: 80px;
+}
+.nz{
+    /* background-color: rgb(222, 221, 221); */
+    width: 90%;
+    height: 1px;
+}
+.iz{
+    /* background-color: chartreuse; */
+    width: 100%;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+}
+.oz{
+    /* background-color: chocolate; */
+    width: 30%;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+}
+.qz{
+    /* background-color: brown; */
+    width: 80%;
+    display: flex;
+    /* justify-content: center; */
+    flex-direction: column;
+}
+.ez{
+    /* background-color: cornsilk; */
+    display: flex;
+    flex-direction: row;
+    height: 70px;
+    align-items: center;
+}
+.lz{
+    /* background-color: crimson; */
+    width: 200px;
+    height: 90px;
+    display: flex;
+    align-items: end;
+    font-size: medium;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+.inst{
+    /* background-color: cornflowerblue; */
+    width: 170px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.fh{
+    /* background-color: cyan; */
+    width: 250px;
+    height: 300px;
+    line-height: 20px;
+    /* display: flex; */
+    /* justify-content: center; */
+
+}
+.inm{
+    /* background-color: crimson; */
+    list-style: none;
+    line-height: 20px;
+}
+.abtt{
+
+    /* background-color: crimson; */
+    list-style: none;
+    line-height: 20px;
+}
+
+.mrs{
+    width: 200px;
+    height: 240px;
+    /* background-color: blue; */
+}
+.nlm{
+    width: 320px;
+    height: 340px;
+    /* background-color: brown; */
+}
+.mpd{
+    width: 100%;
+    height: 35px;
+    /* background-color: blue; */
+    font-weight: 700;
+}
+.unor{
+    width: 100%;
+    height: 180px;
+    /* background-color: aqua; */
+
+}
+.rdc{
+    list-style: none;
+    line-height: 20px;
+}
+.edv{
+    width: 80%;
+    height: 75px;
+    /* background-color: cadetblue; */
+    display: flex;
+    justify-content:space-evenly;
+
+}
+.visa{
+    width: 70%;
+    height: 50px;
+
+}
+.eyth{
+    width: 100%;
+    height: 50px;
+    /* background-color: cornflowerblue; */
+}
+.ding{
+    /* background-color: blue; */
+    font-size: medium;
+    height: 20px;
+}
+.citys{
+    /* background-color:rgba(241, 241, 229, 0.692); */
+    width: 100%;
+    height: 210px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+
+
+}
+.ngr{
+    /* background-color: darkgreen; */
+    width: 92%;
+    height: 70px;
+    display: flex;
+    align-items: center;
+
+}
+.omg{
+    /* background-color: brown; */
+
+}
+.placesss{
+    width: 92%;
+    height: 110px;
+    background-color: rgb(249, 249, 231);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+
+.serve{
+    width: 120px;
+    height: 35px;
+background-color:white;
+border-radius: 15px;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+
+.bx{
+    width: 100%;
+    height: 400px;
+    /* background-color: chartreuse */
+
+}
+.smlbx{
+    width: 400px;
+    height: 350px;
+    /* background-color: darkblue; */
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.fbv{
+    width: 92%;
+    height: 60px;
+    /* background-color: chocolate; */
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+}
+.thig{
+    width: 92%;
+    height: 30px;
+    /* background-color: blueviolet; */
+    /* line-height: 30px; */
+    font-size: medium;
+    /* display: flex; */
+
+
+
+}
+.bone-b{
+    width: 92%;
+    height: 25px;
+    /* background-color: rgb(172, 167, 176); */
+    line-height: 30px;
+    font-size: medium;
+
+
+
+}
+.bone::after{
+    content: "";
+    position: absolute;
+    bottom: -10px;
+    height: 4px;
+    left: 0;
+
+    width: 100%;
+    /* background-color: black; */
+    transition: 0.3s;
+    transition-timing-function: ease-in-out;
+    /* transform: scaleX(0); */
+    
+}
+.bone{
+    font-weight: bold;
+    font-size: 15px;
+    /* display: inline-block; */
+    position: relative;
+    text-decoration: none;
+}
+.bone::after{
+    content: "";
+    position: absolute;
+    width: 100;
+    /* transform: scaleX(0); */
+    height: 2px;
+    bottom: -9;
+    left: 0;
+    width: 0;
+    background-color: #111111;
+    transform-origin:bottom right ;
+    transition:0.2s ;
+}
+.bone:hover  {
+    width: 100%;
+    cursor: pointer;
+    /* color: white;/ */
+    transform: scaleX(0);
+    transform-origin: bottom left;
+}
+.bone:hover::after{
+    width: 100%;
+}
+
+
+.bone-b{
+    /* background-color: aquamarine */
+    height: 30px;
+    width: 92%;
+}
+.th{
+    width: 92%;
+    height: 20px;
+    /* background-color: aliceblue;/ */
+
+}
+.bo-b{
+    width: 92%;
+    height: 30px;
+    /* background-color: burlywood; */
+    font-size: small;
+    /* display: flex; */
+    /* align-items: center; */
+}
+.mhd{
+
+    width: 92%;
+    height: 20px;
+    /* background-color: aliceblue */
+
+
+}
+.nhd{
+    width: 92%;
+    height: 30px;
+    /* background-color: burlywood; */
+    font-size: small;
+
+
+}
+
+
+
+
+
+.mnd{
+    width: 92%;
+    height: 20px;
+    /* background-color: aliceblue; */
+
+
+
+
+}
+.khd{
+    width: 92%;
+    height: 30px;
+    /* background-color: burlywood; */
+    font-size: small;
+
+}
+.har{
+    width: 92%;
+    height: 20px;
+    /* background-color: aliceblue; */
+
+}
+.shi{
+
+    width: 92%;
+    height: 30px;
+    /* background-color: burlywood; */
+    font-size: small;
+
+}
+.last{
+    width: 100%;
+    height: 300px
+    ;
+    background-color: #464646;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    color: white;
+
+}
+.last-a{
+    width: 90%;
+    height: 60px;
+    /* background-color: blue; */
+    display: flex;
+    justify-content: center;
+}
+.last-b{
+    width: 90%;
+    height: 120px;
+    font-size: medium;
+}
+.contact-p{
+    /* background-color: aliceblue; */
+    height: 30px;
+}
+.div-h5text{
+    /* background-color: aquamarine; */
+}
+.all-text{
+    /* background-color: darkkhaki; */
+    /* width: 50%; */
+}
+.img-visa{
+    /* background-color: darkcyan; */
+    /* width: 50%; */
+}
